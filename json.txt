@@ -1,2 +1,1 @@
-wkleić jsona
-dodać kolejny commit
+pierwsza modyfikacja gałęzi first-branch 
