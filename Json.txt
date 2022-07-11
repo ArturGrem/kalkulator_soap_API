@@ -1,1 +1,2 @@
 wkleić jsona
+dodać kolejny commit
