@@ -1,1 +1,6 @@
 pierwsza modyfikacja gałęzi first-branch 
+
+{
+"name" : "artur"
+"age" : 44
+}
